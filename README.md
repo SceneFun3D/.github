@@ -16,18 +16,18 @@
     <sup>4</sup>Microsoft
   </p>
   <h2 align="center">CVPR 2024</h2>
-  <h3 align="center"><a href="https://scenefun3d.github.io">Project Page</a> | <a href="https://alexdelitzas.github.io/assets/pdf/SceneFun3D.pdf">Paper</a> | <a href="https://github.com/OpenMask3D/openmask3d">Code</a> </h3>
+  <h3 align="center"><a href="https://scenefun3d.github.io">Project Page</a> | <a href="https://alexdelitzas.github.io/assets/pdf/SceneFun3D.pdf">Paper</a> | <a href="https://github.com/SceneFun3D">Code</a> </h3>
   <div align="center"></div>
 </p>
 <p align="center">
   <a href="">
-    <img src="https://openmask3d.github.io/static/images/teaser.jpeg" alt="Logo" width="100%">
+    <img src="https://scenefun3d.github.io/static/images/teaser.png" alt="Logo" width="100%">
   </a>
 </p>
-<p align="center">
+<!-- <p align="center">
 <strong>OpenMask3D</strong> is a zero-shot approach for 3D instance segmentation with open-vocabulary queries.
 Guided by predicted class-agnostic 3D instance masks, our model aggregates per-mask features via multi-view fusion of CLIP-based image embeddings.
-</p>
+</p> -->
 <br>
 
 Cite as:
