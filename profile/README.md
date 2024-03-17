@@ -30,7 +30,13 @@ Guided by predicted class-agnostic 3D instance masks, our model aggregates per-m
 </p> -->
 <br>
 
-Cite as:
+## Code repositories
+
+-  [SceneFun3D Toolkit](https://github.com/SceneFun3D/scenefun3d)
+
+<br>
+
+### Cite as:
 ```
 @inproceedings{delitzas2024scenefun3d, 
   author = {Alexandros Delitzas and Ayca Takmaz and Federico Tombari and Robert Sumner and Marc Pollefeys and Francis Engelmann}, 
