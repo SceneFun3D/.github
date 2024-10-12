@@ -33,6 +33,7 @@ Guided by predicted class-agnostic 3D instance masks, our model aggregates per-m
 ## Code repositories
 
 -  [SceneFun3D Toolkit](https://github.com/SceneFun3D/scenefun3d)
+-  [SceneFun3D Documentation](https://github.com/SceneFun3D/documentation)
 
 <br>
 
