@@ -16,7 +16,7 @@
     <sup>4</sup>Microsoft
   </p>
   <h2 align="center">CVPR 2024 Oral</h2>
-  <h3 align="center"><a href="https://scenefun3d.github.io">Project Page</a> | <a href="https://alexdelitzas.github.io/assets/pdf/SceneFun3D.pdf">Paper</a> | <a href="https://github.com/SceneFun3D">Code</a> | <a href="https://scenefun3d.github.io/documentation">Documentation</a></h3>
+  <h3 align="center"><a href="https://scenefun3d.github.io">Project Page</a> | <a href="https://alexdelitzas.github.io/assets/pdf/SceneFun3D.pdf">Paper</a> | <a href="https://github.com/SceneFun3D">Code</a> | <a href="https://scenefun3d.github.io/documentation">Dataset</a></h3>
 <!--   <div align="center"> </div> -->
 <br />
 </p>
